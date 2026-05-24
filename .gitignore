@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude Code 作業ファイル
+.claude/
+**/.claude/
+
+# エディタ
+.vscode/
+.idea/
+
+# 一時ファイル
+*.tmp
+*.bak
